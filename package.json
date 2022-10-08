@@ -1,0 +1,18 @@
+{
+  "name": "@whallin/whallin.me-nowplaying",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/vercel": "^2.1.0",
+    "astro": "^1.4.6",
+    "vercel": "^28.4.8"
+  }
+}
